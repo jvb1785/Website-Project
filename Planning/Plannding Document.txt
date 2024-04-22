@@ -1,0 +1,9 @@
+Plan for Acupuncture Website
+1. Design a Home page: use the curly brace feature we learned in class.
+    -Home page
+        -Nav bar linking other pages 
+        -Some sort of welcome
+        -Advertise how to book (put links to booking on each page)
+    -Contacts page (may just be on the home page)
+    -Products and Services Page
+    -Learn About Acuputnure page

@@ -1,0 +1,21 @@
+
+.container h1 { color: #8e209cbb; font-size:4vw; text-align:center; font-family: cursive;}
+.container p { text-align: center; font-size:2.30vw;}
+
+
+.navbar {background-color: #8e209c91;}
+
+img {height: 675px; width: 1200px;}
+.nav-item {font-size: 18pt; font-weight: 450;}
+
+.navbar-brand {font-size: 18pt; font-weight: 450;}
+.btn {font-size: 1.5vw;}
+
+ul {font-size: 2vw; text-justify: center;}
+
+/*used stack overflow for help to change indicators of arrows*/
+.carousel-control-next,
+.carousel-control-prev, 
+.carousel-indicators {
+    filter: invert(100%);
+}
